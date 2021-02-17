@@ -83,7 +83,7 @@ fi
 
 # Instaling Torcs itself
 echo "Installing Torcs"
-git clone https://github.com/dosssman/gym_torqs.git
+git clone https://github.com/Deanis/gym_torqs.git
 cd gym_torqs
 git checkout torqs_raceconfig
 git reset --hard 1283706db42d8a4c1af5558644ed0114595bd51d
